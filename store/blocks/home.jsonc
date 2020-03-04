@@ -1,7 +1,6 @@
 {
   "store.home": { 
     "blocks": [
-      "rich-text",
       "info-card#button-right",
       "info-card#button-left"
     ]
@@ -21,6 +20,7 @@
   },
   "info-card#button-left": {
     "props": {
+      "isFullModeStyle": false,
       "textPosition": "left",
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-cinza-min.png",
       "headline": "Shining chrome",
