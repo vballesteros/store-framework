@@ -45,11 +45,5 @@
      "showSavings": true,
      "showListPrice": false
    }
-  },
- "buy-button": {
-    "props": {
-      "isOneClickBuy": true,
-      "showTooltipOnSkuNotSelected": false
-    }
   }
 }
