@@ -39,17 +39,5 @@
       "showSKU": true,
       "showBrandName": true
     }
-  },
-  "product-price": {
-   "props": {
-     "showSavings": true,
-     "showListPrice": false
-   }
-  },
- "buy-button": {
-    "props": {
-      "isOneClickBuy": true,
-      "showTooltipOnSkuNotSelected": false
-    }
   }
 }
