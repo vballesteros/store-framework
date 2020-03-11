@@ -37,7 +37,19 @@
   "product-name": {
     "props": {
       "showSKU": true,
-      "showBrandName": true
+      "showBrandName": false
+    }
+  },
+  "product-price": {
+   "props": {
+     "showSavings": true,
+     "showListPrice": false
+   }
+  },
+ "buy-button": {
+    "props": {
+      "isOneClickBuy": true,
+      "showTooltipOnSkuNotSelected": false
     }
   }
 }
