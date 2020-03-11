@@ -31,7 +31,7 @@
     "children": [
       "product-name",
       "product-price",
-      "buy-button#product"
+      "buy-button"
     ]
   },
   "product-name": {
@@ -46,7 +46,7 @@
      "showListPrice": false
    }
   },
- "buy-button#product": {
+ "buy-button": {
     "props": {
       "isOneClickBuy": true,
       "showTooltipOnSkuNotSelected": false
