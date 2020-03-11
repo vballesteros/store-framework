@@ -34,16 +34,10 @@
       "buy-button"
     ]
   },
-  "product-name": {
-    "props": {
-      "showSKU": true,
-      "showBrandName": false
-    }
-  },
   "product-price": {
    "props": {
      "showSavings": true,
-     "showListPrice": false
+     "showListPrice": true
    }
   }
 }
